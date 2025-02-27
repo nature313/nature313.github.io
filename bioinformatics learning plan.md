@@ -64,3 +64,21 @@
 
 #**introduciton**
 
+##**four steps of Bioninformatics**
+
+0. *Question*
+
+ * Biological、Medical Knowledge
+
+1. *Information*
+
+  * Biological、Medical Data
+
+2. *Analysis*
+
+  * Data Clean & Feature Extraction
+   
+4. *Modeling*
+
+   * Probabilistic Model & Computational Algorithm
+  
