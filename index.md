@@ -24,6 +24,7 @@
 # **Preface**
 
 1. *选修要求*：
+
 - [x] 会自己安装软件
 
 - [x] 有基本编程能力，使用编程解决问题
@@ -47,8 +48,8 @@
 * Machine Learning & Al
 
   * Weeks 13-16: basics and model introduction
- 
-  3. *课程评分*
+
+3. *课程评分*
 
   * 1.20% 课堂互动问题
   
