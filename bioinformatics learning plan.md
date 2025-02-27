@@ -39,24 +39,24 @@
   
   * Weeks 11-16:Python (optional)
   
--Basic & NGs Data Analyses
+* Basic & NGs Data Analyses
 
-  -Weeks 2-12
+  * Weeks 2-12
   
--Machine Learning & Al
+* Machine Learning & Al
 
-  -Weeks 13-16: basics and model introduction
+  * Weeks 13-16: basics and model introduction
   
 
 3.*课程评分*
 
-  -1.20% 课堂互动问题
+  * 1.20% 课堂互动问题
   
-  -2.80%当堂和课后作业(7-9次)(建议和反波:+5-10%:每次的加分后总分不超过满分10分)
+  * 2.80%当堂和课后作业(7-9次)(建议和反波:+5-10%:每次的加分后总分不超过满分10分)
   
-  -3.经验分享Presentation 1次(教师和助教打3分+学生互评打7分:是否学到了?是否对大家有帮助?)
+  * 3.经验分享Presentation 1次(教师和助教打3分+学生互评打7分:是否学到了?是否对大家有帮助?)
 
-  -4.加分题(有关作业设置的建议，指出教程的错误)
+  * 4.加分题(有关作业设置的建议，指出教程的错误)
 
   
 #**introduciton**
