@@ -23,16 +23,14 @@
 
 # **Preface**
 
-*1. 选修要求*：
-
+1. *选修要求*：
 - [x] 会自己安装软件
 
 - [x] 有基本编程能力，使用编程解决问题
 
-- [ ] 对linux比较熟悉
+- [ ] 对linux比较熟悉2. 
 
-
-*2. learning plans*
+2. *learning plans*:
 
 * Programming Skills
 
@@ -49,8 +47,8 @@
 * Machine Learning & Al
 
   * Weeks 13-16: basics and model introduction
-  
-*3. 课程评分*
+ 
+  3. *课程评分*
 
   * 1.20% 课堂互动问题
   
@@ -66,26 +64,26 @@
 
 ## **Four steps of Bioninformatics**
 
-*0. Question*
+0. *Question*
 
- * Biological、Medical Knowledge
-
-*1. Information*
+    * Biological、Medical Knowledge
+    * 
+1. *Information*
 
   * Biological、Medical Data
 
   * NGS provided large number of Big and HD Data
 
-*2. Analysis*
+2.*Analysis*
 
   * Data Clean & Feature Extraction
   * Sequencing methods+bioinfo tools
    
-*3. Modeling*
+3.*Modeling*
 
    * Probabilistic Model & Computational Algorithm
 
-     *算法（Algorithm）VS模型（Modeling）*
+     ***算法（Algorithm）VS模型（Modeling）***
      
    * |  | 算法（Algorithm） | 模 型（Modeling） |     
      |:---:|:---:|:---:|
