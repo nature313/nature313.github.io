@@ -20,7 +20,7 @@
 
 ---
 
-# **preface**
+# **Preface**
 
 1. *选修要求*：
 
@@ -62,9 +62,9 @@
 
 ---
 
-# **introduciton**
+# **Introduciton**
 
-## **four steps of Bioninformatics**
+## **Four steps of Bioninformatics**
 
 0. *Question*
 
