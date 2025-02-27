@@ -10,3 +10,28 @@
 -第*4-8*周：按课程要求进行学习，阅读推荐拓展书籍，熟悉常用生信工具和数据库，熟悉R语言编程操作。
 -第*8-16*周：继续进行学习，熟悉python编程操作，阅读《Bioinformatics Data Skills》。
 -结课后：根据课程构建框架深入学习和实践，完成RNA-seq数据分析、蛋白质结构预测等项目。
+
+#**preface**
+1.*选修要求*：
+-[]会自己安装软件
+-[]有基本编程能力，使用编程解决问题
+-[]对linux比较熟悉
+
+2.*learning plans*
+-Programming Skills
+  -Weeks 1-4:Linux
+  -Weeks 5-16: R
+  -Weeks 11-16:Python (optional)
+-Basic & NGs Data Analyses
+  -Weeks 2-12
+-Machine Learning & Al
+  -Weeks 13-16: basics and model introduction
+
+3.*课程评分*
+  -1.20% 课堂互动问题
+  -2.80%当堂和课后作业(7-9次)(建议和反波:+5-10%:每次的加分后总分不超过满分10分)
+  -3.经验分享Presentation 1次(教师和助教打3分+学生互评打7分:是否学到了?是否对大家有帮助?)
+  -4.加分题(有关作业设置的建议，指出教程的错误)
+  
+#**introduciton**
+
